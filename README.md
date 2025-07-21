@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:85FFBD,100:FFFB7D&text=Trịnh%20Ngọc%20Thương&fontAlign=40&fontAlignY=40&fontSize=40&desc=Fullstack%20Developer%20💻&descAlign=60&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:D16BA5,100:86A8E7&text=Trịnh%20Ngọc%20Thương&fontColor=ffffff&fontAlign=40&fontAlignY=40&fontSize=40&desc=Fullstack%20Developer%20💻&descAlign=60&descAlignY=55" />
 </p>
 
 <!-- Contact Badges -->
@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/ngocthuong-trinh-44bb85375/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/ngocthuong.trinh.52/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
+
 
 ---
 
