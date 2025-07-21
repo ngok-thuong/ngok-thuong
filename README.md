@@ -55,7 +55,7 @@
 🔗 Backend: [ITenv-Server](https://github.com/ngok-thuong/ITenv-Server)  
 🔗 Frontend: [ITenv-Client](https://github.com/duongthiu/ITenv-Client)
 
-**Technologies**: NestJS, MongoDB, Redis, Docker, RabbitMQ, WebSockets
+**Technologies**: NodeJs, MongoDB, Docker, WebSockets
 
 ---
 
