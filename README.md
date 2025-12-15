@@ -53,7 +53,7 @@
 
 > A real-time system to manage developer environments efficiently.
 
-🔗 Backend: [ITenv-Server](https://github.com/ngok-thuong/ITenv-Server)  
+🔗 Backend: [ITenv-Server](https://github.com/ngokthuong/ITenv-Server)  
 🔗 Frontend: [ITenv-Client](https://github.com/duongthiu/ITenv-Client)
 
 **Technologies**: NodeJs, MongoDB, Docker, WebSockets
